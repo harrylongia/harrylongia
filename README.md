@@ -4,7 +4,7 @@
   Web-Development, Managing and creating all kinds of projects
   
 - 🌱 I’m Comfortable with :
-  Full Stack MERN Web development , C++ , Python
+  Full Stack Web development , C++ , Python
   
 - 📫 How to reach me :
   email:
